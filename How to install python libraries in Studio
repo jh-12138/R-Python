@@ -1,2 +1,3 @@
 library(reticulate)
 
+py_install(packages = "matplotlib")
